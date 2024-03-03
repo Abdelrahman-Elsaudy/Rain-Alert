@@ -1,8 +1,3 @@
-# To test the code, you can visit https://www.ventusky.com and choose precipitation to know
-# where it's raining now, then get the lat and long of this location from https://www.latlong.net/
-# You will also need to sign up on openweathermap.org to get an API key.
-# I uploaded this code on pythonanywhere.com so that it runs every day and notify me when it's about to rain.
-
 import requests
 import smtplib
 import os
