@@ -58,3 +58,6 @@ going to rain on this day.
 
 - You will also need to have an API key from [OpenWeatherMap](https://openweathermap.org/) by signing up.
 - This tool becomes useful when it is run every day, and this can be automated by a website like [PythonAnywhere](https://www.pythonanywhere.com/).
+
+---
+_Credits to: 100-Days of Code Course on Udemy._
